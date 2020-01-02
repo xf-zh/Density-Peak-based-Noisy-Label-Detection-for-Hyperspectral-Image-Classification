@@ -5,4 +5,4 @@ If you use this code, please kindly cite our paper:  Bing Tu, Xiaofei Zhang, Xud
 
 If you have any questions, please contact us.  Email:  xiaofei_zh@foxmail.com.
 
-Meanwhile, the KSC dataset can be downloaded in http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+Meanwhile, the KSC dataset can be downloaded in  https://pan.baidu.com/s/1CKBMEK3LkFqX0Q1aTMN_Hg    Extracted code: kxv6
